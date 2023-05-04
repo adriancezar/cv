@@ -18,3 +18,11 @@ h3 {
 h1 {
     color: #66BFBF;
 }
+
+h3:hover {
+    color: #A2A378;
+}
+
+h1:hover {
+    color: #A2A378;
+}
