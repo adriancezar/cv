@@ -1,5 +1,6 @@
 body {
     background-color: #EAF6F6;
+    font-family: 'Merriweather', serif;
 }
 
 hr {
@@ -13,10 +14,13 @@ hr {
 
 h3 {
     color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
     color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 370%;
 }
 
 h3:hover {
