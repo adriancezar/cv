@@ -4,12 +4,10 @@ body {
 }
 
 hr {
-    border-style: none ;
-    border-top-style: dotted ;
-    border-color: grey;
-    border-width: 3px;
-    height: 0px;
-    width: 5%;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
 }
 
 h3 {
@@ -33,4 +31,36 @@ h1:hover {
 
 img:hover {
     opacity: 0.5;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    text-align: center;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.top-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-bottom: 20px;
 }
